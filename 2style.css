@@ -1,0 +1,39 @@
+body{
+    text-align: center;
+    background: #74ebd5;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #ACB6E5, #74ebd5);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #ACB6E5, #74ebd5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+color: #1B2021;
+}
+
+#title1{
+    font-family: 'Caveat Brush', cursive;
+    font-size: 150px;
+}
+
+.para1{
+    font-family: 'Caveat Brush', cursive;
+    font-size: 100px;
+}
+
+.para2{
+    font-family: 'Caveat Brush', cursive;
+    font-size: 20px;
+}
+
+#inputArea{
+    opacity: 70%;
+
+width: 90%;
+height: 500px;
+}
+
+#startRead{
+    background: #4e54c8;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #8f94fb, #4e54c8);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #8f94fb, #4e54c8); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    color: white;
+    border-radius:100px;
+}
+
